@@ -71,7 +71,10 @@ Personal cloud. Easy to setup, fast, and efficient.
 Nice password manager. It's not cheap, but it works well. Worth the money.
 
 ### [f.lux](https://justgetflux.com/)
-Nice utility to adjust screen warmth based on time of day
+Nice utility to adjust screen warmth based on time of day. This is my chocie for OS X.
+
+### [Redshift](https://github.com/jonls/redshift)
+Another utility to adjust screen warmth based on time of day. This is my choice for linux.
 
 ### [Dropbox](http://dropbox.com)
 Dropbox, because, well drop box. Yes, I use Dropbox and OwnCloud.
